@@ -61,4 +61,4 @@ Once you have all of the dependencies installed, you only need to get the code.
 Extract the files where you want to work from.
 Then start building awesome things!
 
-You may also want to get used to some of the [commands](commands.md) available.
+##You may also want to get used to some of the [commands](commands.md) available.
